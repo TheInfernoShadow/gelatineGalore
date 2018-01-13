@@ -1,0 +1,3 @@
+author = Fuffles/Wyvernarian
+version = 0.1
+displayName = Gelatine Galore
